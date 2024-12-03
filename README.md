@@ -17,7 +17,7 @@ Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
 
 ```bash
 # Clone the repository 
-git clone https://github.com/solguru310/pumpfun-buy-sell-bot.git
+git clone https://github.com/bitman310/pumpfun-buy-sell-bot.git
 
 # Install dependencies 
 cd pumpfun-buy-sell-bot
