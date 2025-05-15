@@ -5,9 +5,9 @@ An automated Solana Pump.fun bot designed for seamless buy-and-sell execution, m
 ## Contact Info
 If you need more technical support and development inquires, you can contact below.
 
-LinkedIn: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
+LinkedIn: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov)
 
-Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
+Telegram: [@bitman09](https://t.me/@bitman09)
 
 
 
@@ -15,7 +15,7 @@ Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
 
 ```bash
 # Clone the repository 
-git clone https://github.com/bitman310/pumpfun-buy-sell-bot.git
+git clone https://github.com/bitman09/pumpfun-buy-sell-bot.git
 
 # Install dependencies 
 cd pumpfun-buy-sell-bot
